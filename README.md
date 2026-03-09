@@ -21,7 +21,7 @@ building a character level RNN then upgrading it to a word level one.
 
 ## Takeaways
 I was quite proud of the results of my model, it produced a lot of real names and had no junk output. I thoroughly enjoyed building this model and learned a lot about how to optimize a model once the core framework was built, as I think a lot of performance can be attributed to hyperparameter tuning and regularization. This also the first time I built
-a machine learning project as a proper python project not solely in jupyter notebooks. This made my code a lot easier to work with and made implementing integrated testing very easy, which saved me a lot of headache!
+a machine learning project as a proper python project not solely in jupyter notebooks. This made my code a lot easier to work with and made implementing integrated testing very easy which saved me a lot of headache!
 
 ## Acknowledgments
 
